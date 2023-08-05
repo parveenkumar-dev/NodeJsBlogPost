@@ -10,4 +10,4 @@ Starting project for a course on Advanced Node @ Udemy
 
 **Important** - the Mongo Atlas database credentials provided in `dev.js` are read only. If you attempt to login without using your own connection string (covered in the course) you will get the following error `[0] MongoError: user is not allowed to do action [insert] on [advnode.users]`
 
-This application contained Nodejs, expressJs, MongoDb redis cache, upload to s3 signed url.
+This application contained Nodejs, React Js, expressJs, MongoDb redis cache, upload to s3 signed url.
